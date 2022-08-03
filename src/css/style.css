@@ -1,0 +1,25 @@
+body {
+    background-color: antiquewhite;
+}
+.main {
+    background-color: aquamarine;
+    padding: 10px;
+}
+.flex {
+    max-width: 300px;
+    padding: 10px;
+    border: 2px solid black;
+    /*Com display flex */
+    display: flex;
+}
+.flex1 {
+    /*Sem display flex */
+    max-width: 300px;
+    padding: 10px;
+    border: 2px solid black;    
+}
+
+.item {
+    background-color: rgb(138, 132, 195);
+    margin: 5px;
+}
